@@ -34,3 +34,28 @@ header h2{
     font-size: 18px;
     font-weight: 600;
 }
+/* banner */
+
+.banner{
+    width: 100vw;
+    height: 60vh;
+    background-image: url(../assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+  
+}
+.banner h1{
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+.banner p{
+    font-size: 16px;
+    color: #6f737b;
+    text-align: center;
+}
