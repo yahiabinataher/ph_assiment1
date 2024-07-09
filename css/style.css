@@ -38,7 +38,7 @@ header h2{
 
 .banner{
     width: 100vw;
-    height: 60vh;
+    height: 70vh;
     background-image: url(../assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,6 +47,7 @@ header h2{
     align-items: center;
     flex-direction: column;
     gap: 10px;
+   
   
 }
 .banner h1{
@@ -58,4 +59,8 @@ header h2{
     font-size: 16px;
     color: #6f737b;
     text-align: center;
+}
+.banner_btn{
+    background-color: black;
+    color: white;
 }
