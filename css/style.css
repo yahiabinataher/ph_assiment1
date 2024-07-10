@@ -264,7 +264,7 @@ header h2{
 
 .support{
     background-image: url(../assets/handshake.jpg);
-    height: 50vh;
+    height: 40vh;
     width: 82vw;
     background-repeat: no-repeat;
     background-size: cover;
@@ -277,6 +277,7 @@ header h2{
     align-items: center;
     flex-direction: column;
     gap: 20px;
+    border-radius: 10px;
   
 }   
 .support_con{
